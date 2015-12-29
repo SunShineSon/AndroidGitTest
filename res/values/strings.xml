@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidGitTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">button</string>
+    <string name="button_2">button_2</string>
+    <string name="button_baidu">click to baidu </string>
+    <string name="button_baidu_com">click to baidu com </string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="button_click">Button click</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="button_close">Close Second Activity</string>
+
+</resources>
